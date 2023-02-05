@@ -1,78 +1,51 @@
 @import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
 .bg{
-    background-color: white;
-    height: 100vh;
+    background-color: orange;
+    height: 150vh;
     background-size: cover;
 }
-
-.h11{
-    padding: 20px;
-}
-.b11{
-    padding: 20px;
-    
-}
-.img1{
-    margin-top: 40px;
-    margin-right: 40px ;
+.carousel1{
+    padding: 21px;
 }
 
-.bg2{
-    background-color: #0967d219;
-    height: 30vh;
-    border-radius: 20px;
-    margin-right:20px ;
-    margin-left: 20px;
-    margin-top: 20px;
-
-}
-.thepad{
-    padding: 30px;
-}
-.thepad2{
-    padding-left: 15px;
-}
-
-.symptoms1{
-    margin-top: 30px;
-    margin-left: 25px;
-}
-.card2{
-    background-color: #3ebd93;
-    border-radius: 20px;
-    margin: 20px;
-    padding: 20px;
-
-}
-.card3{
-    background-color: #e668a7;
-    border-radius: 20px;
-    margin: 20px;
-    padding: 20px;
-}
-.card4{
-    background-color: #a368fc;
-    border-radius: 20px;
-    margin: 20px;
-    padding: 20px;
-}
-.imgsize{
-    height: 15vh;
-}
-.align1{
-    text-align: center;
+.heading{
     color: white;
-    margin-top: 10px;
+    font-size: 40px;
+    font-family: roboto;
+    font-weight: bold;
+    padding: 20px;
 }
-.headcolor{
-    color: #323f4b;
+
+.butt{
+    color: orange;
+    background-color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 20px;
+    width: 20vw;
+    height: 5vh;
+    font-weight: 600;
+    
+
 }
-.bg3{
-    background-color:#e12d3919 ;
-    border-radius: 20px;
-    margin-right: 20px;
-    margin-left: 20px;
+.butpad{
+    padding: 20px;
 }
-.padtop{
-    padding-top: 20px;
+
+.para{
+    color: white;
+    padding: 20px;
+
+}
+
+.similar{
+    padding: 20px;
+    color: white;
+}
+.padright{
+    padding-right: 28px;
+}
+.padleft{
+    padding-left: 28px;
 }
